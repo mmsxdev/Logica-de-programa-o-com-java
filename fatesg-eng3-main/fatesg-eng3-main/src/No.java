@@ -1,8 +1,6 @@
 public class No {
-
     private int dado;
     private No proximo;
-
 
     public int getDado() {
         return dado;
