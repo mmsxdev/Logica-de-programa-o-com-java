@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/AvalicacaoN2/AvalicacaoN2.iml" filepath="$PROJECT_DIR$/AvalicacaoN2/AvalicacaoN2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jogo-da-Velha/Jogo-da-Velha.iml" filepath="$PROJECT_DIR$/Jogo-da-Velha/Jogo-da-Velha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaAlgoritmoDeBusca.iml" filepath="$PROJECT_DIR$/ListaAlgoritmoDeBusca.iml" />
     </modules>
   </component>
 </project>
