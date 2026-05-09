@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Lista-Algoritmo-De-Busca" />
+        <module name="tabela-hash" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
